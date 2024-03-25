@@ -1,22 +1,3 @@
-// import React from "react";
-// import PageLayout from "./components/PageLayout";
-// import Head from "next/head";
-
-// const InvestmentPage = () => {
-//   return (
-//     <div>
-//       <Head>
-//         <title>Investment - Itavi Mining</title>
-//       </Head>
-//       <PageLayout>
-//         <div>Investment</div>
-//       </PageLayout>
-//     </div>
-//   );
-// };
-
-// export default InvestmentPage;
-
 import Head from "next/head";
 import React, { useState } from "react";
 import Link from "next/link";
